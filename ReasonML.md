@@ -42,7 +42,7 @@ React, наконец, прошел полный цикл из своей аль
 
 ![Image alt](https://github.com/Shuregame/ReasonML/blob/master/3.png)
 
-
+Давайте установим все зависимости узла этого проекта.
 
 
 
