@@ -106,6 +106,8 @@ React, наконец, прошел полный цикл из своей аль
 
 Обратите внимание, что нам не нужно добавлять горячее к истинному в настройках devServer по умолчанию, последняя версия webpack-dev-server будет иметь горячую перезагрузку.
 
+<img src="https://github.com/Shuregame/ReasonML/blob/master/10.png width="48">
+
 ![Image alt](https://github.com/Shuregame/ReasonML/blob/master/10.png)
 
 Убедитесь, что вы повторно запустили webpack-dev-server и затем попытаетесь изменить текст файла src / Index.re с «Hello» на «Bye». Приложение должно автоматически и мгновенно перезагрузиться в вашем браузере.
