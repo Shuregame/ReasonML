@@ -39,7 +39,9 @@ React, наконец, прошел полный цикл из своей аль
 Вместо этого мы будем использовать Bucklescript для генерации нашего проекта.
 
 Сначала нам нужно установить компилятор Buckscript:
-<a href="url"><img src="https://github.com/Shuregame/ReasonML/blob/master/img1.png" height="200" width="400" ></a>
+
+
+<a href="url"><img src="https://github.com/Shuregame/ReasonML/blob/master/img1.png" height="100" width="500" ></a>
 
 
 Если у вас установлена старая версия Bucklescript, рекомендуется удалить старую версию перед установкой новой.
@@ -109,7 +111,8 @@ React, наконец, прошел полный цикл из своей аль
 
 <img src="https://github.com/Shuregame/ReasonML/blob/master/10.png width="48">
 
-![Image alt](https://github.com/Shuregame/ReasonML/blob/master/10.png)
+
+<a href="url"><img src="https://github.com/Shuregame/ReasonML/blob/master/10.png" height="600" width="500" ></a>
 
 Убедитесь, что вы повторно запустили webpack-dev-server и затем попытаетесь изменить текст файла src / Index.re с «Hello» на «Bye». Приложение должно автоматически и мгновенно перезагрузиться в вашем браузере.
 
