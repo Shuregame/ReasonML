@@ -40,7 +40,7 @@ React, наконец, прошел полный цикл из своей аль
 Существует новый файл bsconfig.json, в котором хранятся параметры конфигурации для компилятора Bucklescript. В нем вы можете найти, где находятся исходные файлы, зависимости и какие суффиксы использовать для скомпилированного кода среди прочего. Вы можете узнать, что все эти настройки, проверив документы: https://bucklescript.github.io/docs/en/build-configuration#docsNav
 Существует папка src /, содержащая код причины и файл index.hml.
 
-![Image alt](https://github.com/Shuregame/ReasonML/blob/master/2.png)
+![Image alt](https://github.com/Shuregame/ReasonML/blob/master/3.png)
 
 
 
