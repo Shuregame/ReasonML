@@ -27,6 +27,7 @@ React, наконец, прошел полный цикл из своей аль
 
 Сначала нам нужно установить компилятор Buckscript:
 
+![Image alt](https://github.com/Shuregame/ReasonML/blob/master/img1.png)
 
 
 
