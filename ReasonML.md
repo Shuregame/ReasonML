@@ -39,7 +39,7 @@ React, наконец, прошел полный цикл из своей аль
 Вместо этого мы будем использовать Bucklescript для генерации нашего проекта.
 
 Сначала нам нужно установить компилятор Buckscript:
-<a href="url"><img src="https://github.com/Shuregame/ReasonML/blob/master/img1.png" height="600" width="400" ></a>
+<a href="url"><img src="https://github.com/Shuregame/ReasonML/blob/master/img1.png" height="200" width="400" ></a>
 
 
 Если у вас установлена старая версия Bucklescript, рекомендуется удалить старую версию перед установкой новой.
