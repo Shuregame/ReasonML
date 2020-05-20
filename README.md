@@ -13,9 +13,11 @@ b      | 7     | ^
 
 
 Feature |	Example | JavaScript | Output
-------  | ------|----------
+--------|---------|------------|-------
 String	| "Hello" |	"Hello"
 Character	|'x' |	"x"
+
+
 Integer |	23, -23 | 23, -23
 Float	23.0, -23.0	23.0, -23.0
 Integer Addition	23 + 1	23 + 1
