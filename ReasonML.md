@@ -116,3 +116,15 @@ React, наконец, прошел полный цикл из своей аль
 Убедитесь, что вы повторно запустили webpack-dev-server и затем попытаетесь изменить текст файла src / Index.re с «Hello» на «Bye». Приложение должно автоматически и мгновенно перезагрузиться в вашем браузере.
 
 Теперь у вас есть полностью рабочая среда ReasonReact в комплекте с webpack-dev-server и горячей перезагрузкой. Обратите внимание, что большинство приведенных выше команд имеют ярлык package.json, который вы можете использовать через yarn или npm.
+
+## Ссылки: 
+
+https://reasonml.github.io/docs/ru/what-and-why
+
+https://reasonml.github.io/docs/en/installation
+
+http://reasonmlhub.com/exploring-reasonml/ch_getting-started.html
+
+https://www.codementor.io/@mchaver/getting-started-with-reasonml-and-reasonreact-zw4nam81u
+
+https://www.tailrecursive.co/blogpost-reasonml-reasonreact
